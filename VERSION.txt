@@ -1,0 +1,4 @@
+source_commit=9bef5c7
+built_at=2026-11-09T14:36:46Z
+version_a_commit=e8e5315
+version_b_commit=6a77f41
